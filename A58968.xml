@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Second dialogue between Simeon and Levi concerning the difference of professors from the metropolitan sort, to all others of the lesser form with respect to their carriage and behaviour in time of persecution.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58968</idno><idno type="EEBO-CITATION">13692109</idno>
+  <idno type="VID">101407</idno>
+  <idno type="EEBO-PROQUEST">2248495595</idno>
+  
+            <idno type="STC">Wing S2270</idno>
+            <idno type="STC">ESTC R34068</idno>
+            <idno type="OCLC">13692109</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58968)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101407)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1047:44)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Second dialogue between Simeon and Levi concerning the difference of professors from the metropolitan sort, to all others of the lesser form with respect to their carriage and behaviour in time of persecution.</title>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G.C. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Dissenters, Religious --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101407:1"/>
+            <pb facs="tcp:101407:1"/>
+            <p>A SECOND DIALOGUE BETWEEN <hi>Simeon</hi> and <hi>Levi,</hi> CONCERNING The Difference Of <hi>PROFESSORS</hi> from the <hi>ME<g ref="char:EOLhyphen"/>TROPOLITAN</hi> sort, to all others of the lesser Form.</p>
+            <p>WITH Respect to their Carriage and Behaviour, In a Time Of PERSECUTION.</p>
+            <q>
+               <bibl>
+                  <hi>Malach. 3.16.17.18.</hi>
+               </bibl>
+               <p>Then they that feared the Lord, speak often one to another: and the Lord hearkned and heard it, and a Book of Remembrance was written before him, for them that feared the Lord and that thought upon his Name; And they shall be mine saith the Lord of Hosts, in that day when I make up my <hi>Jewels,</hi> and I will spare them as a man spareth his own Son that ser<g ref="char:EOLhyphen"/>veth him. Then shall ye Return and discern between him that serveth God, and him that serveth him not.</p>
+            </q>
+            <q>
+               <p>Tempora mutantur, nos &amp; mutamur in illis.</p>
+            </q>
+            <q>
+               <l>Airy Dissenters in a time of Peace,</l>
+               <l>Prove strictest <hi>Church men</hi> when those times do cease,</l>
+               <l>Change times again, such <hi>Church-men</hi> then will Swear,</l>
+               <l>They are the best Dissenters ever were.</l>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>With Allowance.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>G. C.</hi> in <hi>Thames-street,</hi> 1688.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:101407:2"/>
+            <pb n="3" facs="tcp:101407:2"/>
+            <head>A SECOND DIALOGUE BETWEEN <hi>Simeon</hi> and <hi>Levi,</hi> CONCERNING The Difference Of <hi>PROFESSORS</hi> from the <hi>METROPOLITAN</hi> sort, to all others of the lesser Form, <hi>Viz.</hi>
+            </head>
+            <sp>
+               <speaker>Sim.</speaker>
+               <p>GOodmorrow Brother <hi>Levi, you are</hi> here before me.</p>
+            </sp>
+            <sp>
+               <speaker>Levi.</speaker>
+               <p>
+                  <hi>I was taking a Melancholly Walk, musing upon our last Discourse, and it a little affects</hi> Me.</p>
+            </sp>
+            <sp>
+               <speaker>Sim,</speaker>
+               <p>What's the Matter?</p>
+            </sp>
+            <sp>
+               <speaker>Levi,</speaker>
+               <p>
+                  <hi>We have not carryed our selves (in the late Troubles,) as became the Gospel we so long professed and Preached, and the Mischief is the</hi> World <hi>knows it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sim.</speaker>
+               <p>Ah! Brother! had either of us submitted to mortifying Grace, and appeared in the first opening our <hi>Synagogues,</hi> as truly Penitent, for the publick Scandal we have given to <hi>Religion,</hi> for the grief we have ex<g ref="char:EOLhyphen"/>posed the Godly to, for the Laughter we have filled
+<pb n="4" facs="tcp:101407:3"/>the wicked with, by our ignominious Tergiversation; we might be under far better Circumstances than now we are, but since we have Strutted and Vapoured be<g ref="char:EOLhyphen"/>fore the face of Multitudes, as though we had done no<g ref="char:EOLhyphen"/>thing amiss; amiss do I say, nay as though we had been the only Saints of the Times, we can expect no better Treatment than the Just censures of the Sober and Con<g ref="char:EOLhyphen"/>scientious Part of Mankind, of what persuasion soever. But pray how was it with our Brethren of the Congre<g ref="char:EOLunhyphen"/>gational way, with the rest of the Dissenters.</p>
+            </sp>
+            <sp>
+               <speaker>Levi,</speaker>
+               <p>
+                  <hi>I profess they have gained a great deal of Ground</hi> of us.</p>
+            </sp>
+            <sp>
+               <speaker>Sim.</speaker>
+               <p>How so?</p>
+            </sp>
+            <sp>
+               <speaker>Levi.</speaker>
+               <p>
+                  <hi>Bearing up so bravely under the greatest Press<g ref="char:EOLhyphen"/>ures of sufferings, and the not forsaking the assembling themselves together (as the manner of some was) not<g ref="char:EOLhyphen"/>withstanding the horrid discouragements they met with, whereby they mightily convinc'd the Atheistical World of the Power and Glory of Religion, shamed our</hi> (Proteus <hi>like</hi>) <hi>turning and winding, shufling and shifting, and gained to themselves a never fading Crown of Honour.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sim,</speaker>
+               <p>Was there none such among us?</p>
+            </sp>
+            <sp>
+               <speaker>Levi,</speaker>
+               <p>
+                  <hi>Yes, there was a firm Oak that sprong from a better Soyl than ever you or I grew in, who never crack<g ref="char:EOLhyphen"/>ed or bended in the hottest of the Times, we had another, who by his Courage and unfoil'd Magnanimity, seemed to be prepared for a day of</hi> Slater, <hi>as also a brisk</hi> Frank <hi>Soul, who bare a worthy unshaken Testimony before the fiercest Wolves who sufficiently witnessed by his repeat<g ref="char:EOLhyphen"/>ed Imprisonments and manifold sufferings, he was not ashamed to own, nor afraid to assert the</hi> Gospel <hi>of</hi> Je<g ref="char:EOLhyphen"/>sus Christ. <hi>Neither must we forget (for we may ad<g ref="char:EOLhyphen"/>mire
+<pb n="5" facs="tcp:101407:3"/>though we could not imitate) Him that is the Honour of our Way, the Glory of Learning, and indeed</hi> (<hi>in despite of any</hi> Hyperbole) <hi>the nearest Instance in this Age of created Perfections.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sim.</speaker>
+               <p>How?</p>
+            </sp>
+            <sp>
+               <speaker>Levi,</speaker>
+               <l>
+                  <hi>But where shall we pick up any more,</hi>
+               </l>
+               <l>
+                  <hi>For 'mong the rest scarce cou'd be found a man</hi>
+               </l>
+               <l>
+                  <hi>But look't as pail and volatile as</hi> Bran,</l>
+            </sp>
+            <sp>
+               <speaker>Sim.</speaker>
+               <p>
+                  <hi>Did none of the other sort Flinch.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Levi,</speaker>
+               <p>Hardly any, it may be one was <hi>MEAD</hi> to go away, another forced to hide in <hi>LOB'S</hi> Corner, yet not from any declining their Work, or with design basely to cringe to the Humour of the times, but through the malevolent influence of some Stars then on the ascend<g ref="char:EOLhyphen"/>ant, they were compelled to draw aside a little be<g ref="char:EOLhyphen"/>hind the Curtain, yet in their greatest recluse they took care of their poor Flocks, sent to them, writ to them (which we never did) and rejoyced to hear they were provided for by other Preachers (which we were always mad at) It grieved our hearts that a<g ref="char:EOLhyphen"/>ny <hi>Interlopers</hi> (for so we counted them) should come near our Folds, for though we had forgot feeding we, had still a Months mind to Fleecing, and therefore we were willing our sheep should keep their wool though they wanted Pasture. But to return, as soon as these but now mentioned, were restored to Freedom and safety by the Darting in the Beams of Royal Fa<g ref="char:EOLhyphen"/>vor, Oh! with what Honour, Credit, and Renown, did they come again to their beloved People, and now they may expect a Blessing upon their constant and sincere Labours, and therefore the Case if those Worthy Persons and ours, is in all manner of ways
+<pb n="6" facs="tcp:101407:4"/>hugely differing Moreover if we look into the rest of the Congregations of that way, or look into those of other ways, as the People called <hi>Anabaptists,</hi> Nay if we Consider the (by us esteemed) poor and sorry People called <hi>Quakers,</hi> we cannot (unless our Fore<g ref="char:EOLhyphen"/>heads be hard indeed) but blush to think how they have out-done us. How Zealous were they of a pre<g ref="char:EOLhyphen"/>cious thing called Faithfulness (which you and I ne<g ref="char:EOLhyphen"/>ver made an Idol of) how chearfully did they embrace sufferings, how joyfully did they take the spoyling of their Goods, how constantly and publickly did they meet, notwithstanding the Fury of their Oppressors.</p>
+            </sp>
+            <sp>
+               <speaker>Sim.</speaker>
+               <p>
+                  <hi>What is the Application of all this?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Levi,</speaker>
+               <p>Truly very black upon us, as First, Had it not been for other Dissenters, the whole of the Dis<g ref="char:EOLhyphen"/>senting Cause had been lost and swallowed up in the late Persecution, and all the World would have look<g ref="char:EOLhyphen"/>ed upon the Dissenters in <hi>England,</hi> as a company of Horrid Impostors, in making such a noise about a thing they had no courage to stand by. Secondly, we have for ever lost the magnified Titles of the Dissenters <hi>Rabbies,</hi> or the great <hi>Doctors</hi> of the Reformmed Religion; Whoever heretofore thought us so, will have other kind of thoughts now they have discern<g ref="char:EOLhyphen"/>ed our Nakedness, seen our Rottenness, and beheld the pittious effects of our lamentable Feebleness. Thirdly, We have brought our selves into an inextricable <hi>Laby<g ref="char:EOLhyphen"/>rinth,</hi> beyond the Art and Sophistry of the cunningest Men to help us out, for either we must own our selves gross Hypocrites (in the late times) in complying with that which we thought evil or Notorious <hi>Schismaticks</hi> (at this time) in departing from what
+<pb n="7" facs="tcp:101407:4"/>we think good. If going to <hi>Church,</hi> and conforming to the Ceremonies be an evil thing, Why did I, and a great many other <hi>Dons,</hi> sanctuary our selves under the shade of this Evil, from suffering in the Flesh, when we were called of God to bear a Testimony (by suffering) against the evil of it? On the other hand, if going to Church, and conforming to the Ceremonies, be a good thing, a warrantable thing; Why do I (for I must put my self first) and they make such a rent and Division in a <hi>Protestant Church,</hi> by refusing to do it? <hi>Now</hi> meeting in separate Congregations, and draw<g ref="char:EOLhyphen"/>ing <hi>Sholes</hi> of People from a <hi>More Excellent</hi> way. Ah! Brother, what can we say to these things. Lastly, if there had been no better Dissenters than we, the opening the <hi>Box</hi> of His <hi>MAJESTIES</hi> unpa<g ref="char:EOLhyphen"/>ralell'd Goodness in His Most Gratious <hi>Declaration,</hi> could not have cast such a <hi>Fragrant</hi> and <hi>Odoriferous</hi> Savor in every Corner of the Land as it has done. News of <hi>Liberty</hi> is but dull Musick, to such as never were in Bonds, Freedom to worship God in their own way, is a small thing with those, whose <hi>Wash-Leather</hi> Consciences (such as ours) can stretch wide enough to worship him in any way. And in truth this is the Reason the <hi>Gentlemen</hi> of our Tribe are so cold about abolishing the <hi>Penal Laws</hi> and <hi>Tests.</hi> They Compassionately argue thus, Why should we be so cruel as to cut down and Mortify these poor inno<g ref="char:EOLhyphen"/>cent Laws that never did (nor ever shall) doe us any Harm? But more of this at our next Meeting.</p>
+            </sp>
+            <sp>
+               <speaker>Sim,</speaker>
+               <p>
+                  <hi>Very good, Farwel for this Time.</hi>
+               </p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
